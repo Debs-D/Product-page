@@ -12,7 +12,7 @@ const Homepage = () => {
       <div className="flex items-center justify-center gap-12">
         <div className="flex flex-col gap-10 w-[370px]">
           <div className="flex items-start gap-4">
-            <img src="/src/assets/food 1.png" alt="Food" />
+            <img src="/assets/food 1.png" alt="Food" />
             <div>
               <h3 className="font-semibold text-[19px] leading-[150%] text-[#161723]">
                 Real Food
@@ -24,7 +24,7 @@ const Homepage = () => {
           </div>
 
           <div className="flex items-start gap-4">
-            <img src="/src/assets/pet-bowl 1.png" alt="Food Bowl" />
+            <img src="/assets/pet-bowl 1.png" alt="Food Bowl" />
             <div>
               <h3 className="font-semibold text-[19px] leading-[150%] text-[#161723]">
                 Premium Ingredient
@@ -39,7 +39,7 @@ const Homepage = () => {
         {/*  circle image */}
         <div className="w-[300px] h-[300px] rounded-full overflow-hidden flex items-center justify-center">
           <img
-            src="/src/assets/Frame 1171276495.png"
+            src="/assets/Frame 1171276495.png"
             alt="Healthy Dog"
             className="object-cover"
           />
@@ -47,7 +47,7 @@ const Homepage = () => {
 
         <div className="flex flex-col gap-10 w-[370px]">
           <div className="flex items-start gap-4">
-            <img src="/src/assets/pet-food 1.png" alt="Pet Food" />
+            <img src="/assets/pet-food 1.png" alt="Pet Food" />
             <div>
               <h3 className="font-semibold text-[19px] leading-[150%] text-[#161723]">
                 Made Fresh
@@ -60,7 +60,7 @@ const Homepage = () => {
           </div>
 
           <div className="flex items-start gap-4">
-            <img src="/src/assets/vet 1.png" alt="Vet" />
+            <img src="/assets/vet 1.png" alt="Vet" />
             <div>
               <h3 className="font-semibold text-[19px] leading-[150%] text-[#161723]">
                 Vet Developed
@@ -87,27 +87,27 @@ const Homepage = () => {
 
           <div className="flex items-center gap-2 flex-shrink-0">
             <img
-              src="/src/assets/image 25.png"
+              src="/assets/image 25.png"
               alt="PayPal"
               className="h-5 object-contain"
             />
             <img
-              src="/src/assets/image 26.png"
+              src="/assets/image 26.png"
               alt="Visa"
               className="h-5 object-contain"
             />
             <img
-              src="/src/assets/image 27.png"
+              src="/assets/image 27.png"
               alt="Mastercard"
               className="h-5 object-contain"
             />
             <img
-              src="/src/assets/image 28.png"
+              src="/assets/image 28.png"
               alt="Apple Pay"
               className="h-5 object-contain"
             />
             <img
-              src="/src/assets/image 29.png"
+              src="/assets/image 29.png"
               alt="Google Pay"
               className="h-5 object-contain"
             />

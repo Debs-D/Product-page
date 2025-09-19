@@ -4,7 +4,7 @@ const InfoSections = () => {
       <div className="max-w-7xl mx-auto px-6 md:px-12 flex flex-col gap-20">
         <div className="flex flex-col md:flex-row items-center gap-8">
           <div className="flex-1">
-            <img src="/src/assets/Rectangle 8.png" alt="Dog health" />
+            <img src="/assets/Rectangle 8.png" alt="Dog health" />
           </div>
           <div className="flex-1 text-black">
             <h2 className=" font-semibold text-4xl  mb-4">
@@ -24,7 +24,7 @@ const InfoSections = () => {
 
         <div className="flex flex-col md:flex-row-reverse items-center gap-8">
           <div className="flex-1">
-            <img src="/src/assets/Rectangle 7.png" alt="Dog health" />
+            <img src="/assets/Rectangle 7.png" alt="Dog health" />
           </div>
           <div className="flex-1 text-black">
             <h2 className=" font-semibold text-4xl  mb-4">

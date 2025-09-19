@@ -60,7 +60,7 @@ const HeroSection = () => {
 
         <div className="flex-1 flex justify-center items-center">
           <img
-            src="/src/assets/Rectangle 15.png"
+            src="/assets/Rectangle 15.png"
             alt="Happy Dog"
             className="rounded-lg object-cover w-full h-full max-w-[500px] max-h-[500px]"
           />
