@@ -24,24 +24,22 @@ const HeroSection = () => {
                   <span className="text-[#EE6F4B] font-bold text-[33px] leading-[150%]">
                     97%
                   </span>
-                  <p className="text-black font-normal text-[16px] leading-[150%] tracking-[0.5px]">
+                  <p className="text-black font-normal text-base ">
                     Dogs choose our dog food over leading brands because of its
                     real functional ingredients and delicious flavor.
                   </p>
                 </div>
 
-                {/* Row 2 */}
                 <div className="flex items-start gap-6 border-b border-[#E3E3E8] pb-4">
                   <span className="text-[#EE6F4B] font-bold text-[33px] leading-[150%]">
                     84%
                   </span>
-                  <p className="text-black font-normal text-[16px] leading-[150%] tracking-[0.5px]">
+                  <p className="text-black font-normal text-base ">
                     Dogs choose our dog food over leading brands because of its
                     real functional ingredients and delicious flavor.
                   </p>
                 </div>
 
-                {/* Row 3 */}
                 <div className="flex items-start gap-6">
                   <span className="text-[#EE6F4B] font-bold text-[33px] leading-[150%]">
                     92%
@@ -55,13 +53,11 @@ const HeroSection = () => {
             </div>
           </div>
 
-          {/* CTA Button */}
           <button className="bg-[#EE6F4B] text-white text-[16px] font-medium px-10 py-3 rounded-md w-full mt-8">
             Give your furry friend the gift of wholesome nutrition
           </button>
         </div>
 
-        {/* Right Side (Dog Image) */}
         <div className="flex-1 flex justify-center items-center">
           <img
             src="/src/assets/Rectangle 15.png"
